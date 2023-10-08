@@ -52,3 +52,6 @@
   "author": "",
   "license": "ISC"
 }
+"engines": {
+  "node": "14.x"
+}
