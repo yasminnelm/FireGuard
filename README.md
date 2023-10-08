@@ -34,7 +34,7 @@ You can configure various aspects of the FIREGUARD Web App by modifying the conf
 
 ## Predictive Analytics
 
-The predictive analytics for wildfire forecasting are implemented in Python. You can find the relevant code in this repo :  . To improve the accuracy of wildfire predictions, you may need to fine-tune the algorithms and incorporate new data sources.
+The predictive analytics for wildfire forecasting are implemented in Python. You can find the relevant code in this repo :https://github.com/LahnoukiAicha/ForestPrediction.git  . To improve the accuracy of wildfire predictions, you may need to fine-tune the algorithms and incorporate new data sources.
 
 ## Contributing
 
