@@ -53,7 +53,7 @@ Before running the FIREGUARD Web App, ensure you have the following installed:
 ## Installation
 
 1. Clone the FIREGUARD repository:
-git clone https://github.com/yourusername/fireguard.git
+git clone https://github.com/yasminnelm/fireguard.git
 
 2. Navigate to the project directory:
 
